@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    --Whyte: hsl(0, 0%, 100%);
+    --Light_gray: hsl(212, 45%, 89%);
+    --Grayish-blue: hsl(220, 15%, 55%);
+    --Dark_blue: hsl(218, 44%, 22%);
+}
+/* @font-face {
+    font-family: 'Outfit';
+    src: url(Outfit/Outfit-VariableFont_wght.ttf) format('truetype');
+} */
+
+@font-face {
+    font-family: 'Outfit attr';
+    font-weight: 200;
+    src: url(Outfit/static/Outfit-ExtraLight.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Outfit 400';
+    font-weight: 400;
+    src: url(Outfit/static/Outfit-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Outfit 700';
+    font-weight: 700;
+    src: url(Outfit/static/Outfit-Bold.ttf) format('truetype');
+}
+
+body {
+    background-color: var(--Light_gray);
+}
+
+.contents {
+    border-radius: 25px;
+    background-color: var(--Whyte);
+    width: 25em;
+    margin: 5vh auto;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    box-shadow: 5px 5px 10px var(--Grayish-blue);
+}
+
+.qrcode img {
+    max-width: 22em;
+    border-radius: 15px;
+}
+
+h3 {
+    font-family: 'Outfit 700';
+    font-size: 25px;
+    margin: 7px;
+    padding: 7px;
+    color: var(--Dark_blue);
+}
+
+p {
+    font-family: 'Outfit 400';
+    font-size: 15px;
+    width: 18em;
+    color: var(--Grayish-blue);
+}
+
+.attribution {
+    font-size: 11px;
+}
+
+.attribution a {
+    font-family: 'Outfit attr';
+    text-decoration: none;
+    color: hsl(228, 45%, 44%);
+}
