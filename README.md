@@ -17,13 +17,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![]('Screenshot 2022-08-08 at 13-05-53 Frontend Mentor QR code component.png')
-![]('Screenshot 2022-08-08 at 13-08-45 Frontend Mentor QR code component.png')
+![](Screenshot 2022-08-08 at 13-05-53 Frontend Mentor QR code component.png)
+![](Screenshot 2022-08-08 at 13-08-45 Frontend Mentor QR code component.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/bi9bos/revision-through-exercises/tree/demo-1)
+- Live Site URL: (https://b9ndesigns-qrcode-component.netlify.app)
 
 ## My process
 
@@ -37,18 +37,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I learnt to use font face to style my design's fonts offline and practiced more on flexbox, variables and html/css semantics overall
 
 ### Useful resources
 
-- [CSS Tricks](https://www.csstricks.com) - This helped me for using fontface in using downloaded google fonts for offline use.
+- [CSS Tricks](https://www.google.com/url?sa=t&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwixoOCPsLf5AhXJX_EDHT3dCAQQFnoECBwQAQ&url=https%3A%2F%2Fcss-tricks.com%2Fsnippets%2Fcss%2Fusing-font-face-in-css%2F&usg=AOvVaw2oiN_CRRGU5zNF47ud05wH) - This helped me for using fontface in using downloaded google fonts for offline use.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/bi9bos)
+- Frontend Mentor - [@bi9bos](https://www.frontendmentor.io/profile/bi9bos)
 - Twitter - [@b9bos1](https://www.twitter.com/b9bos1)
