@@ -35,9 +35,9 @@ body {
 }
 
 .contents {
-    border-radius: 25px;
+    border-radius: 12px;
     background-color: var(--Whyte);
-    width: 25em;
+    max-width: 25em;
     margin: 5vh auto;
     margin-top: 10%;
     display: flex;
@@ -45,12 +45,12 @@ body {
     align-items: center;
     justify-content: center;
     padding: 20px;
-    box-shadow: 5px 5px 10px var(--Grayish-blue);
+    box-shadow: 5px 5px 15px 5px var(--Grayish-blue, 0.05);
 }
 
 .qrcode img {
-    max-width: 22em;
-    border-radius: 15px;
+    max-width: 100%;
+    border-radius: 10px;
 }
 
 h3 {
